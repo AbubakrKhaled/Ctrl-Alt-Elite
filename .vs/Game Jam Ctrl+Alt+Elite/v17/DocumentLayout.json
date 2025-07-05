@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\Unity\\Projects\\Game Jam Ctrl\u002BAlt\u002BElite\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7E91B5D2-771E-36B1-44AA-7B84F196463F}|Assembly-CSharp.csproj|d:\\unity\\projects\\game jam ctrl\u002Balt\u002Belite\\assets\\scripts\\enemybullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E91B5D2-771E-36B1-44AA-7B84F196463F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemybullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7E91B5D2-771E-36B1-44AA-7B84F196463F}|Assembly-CSharp.csproj|d:\\unity\\projects\\game jam ctrl\u002Balt\u002Belite\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E91B5D2-771E-36B1-44AA-7B84F196463F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E91B5D2-771E-36B1-44AA-7B84F196463F}|Assembly-CSharp.csproj|D:\\Unity\\Projects\\Game Jam Ctrl\u002BAlt\u002BElite\\assets\\scripts\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E91B5D2-771E-36B1-44AA-7B84F196463F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E91B5D2-771E-36B1-44AA-7B84F196463F}|Assembly-CSharp.csproj|D:\\Unity\\Projects\\Game Jam Ctrl\u002BAlt\u002BElite\\assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E91B5D2-771E-36B1-44AA-7B84F196463F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7E91B5D2-771E-36B1-44AA-7B84F196463F}|Assembly-CSharp.csproj|D:\\Unity\\Projects\\Game Jam Ctrl\u002BAlt\u002BElite\\assets\\scripts\\enemyshooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,16 +27,8 @@
       "RelativeMoniker": "D:0:0:{7E91B5D2-771E-36B1-44AA-7B84F196463F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenuscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E91B5D2-771E-36B1-44AA-7B84F196463F}|Assembly-CSharp.csproj|D:\\Unity\\Projects\\Game Jam Ctrl\u002BAlt\u002BElite\\assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E91B5D2-771E-36B1-44AA-7B84F196463F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7E91B5D2-771E-36B1-44AA-7B84F196463F}|Assembly-CSharp.csproj|D:\\Unity\\Projects\\Game Jam Ctrl\u002BAlt\u002BElite\\assets\\scripts\\levelsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E91B5D2-771E-36B1-44AA-7B84F196463F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E91B5D2-771E-36B1-44AA-7B84F196463F}|Assembly-CSharp.csproj|D:\\Unity\\Projects\\Game Jam Ctrl\u002BAlt\u002BElite\\assets\\scripts\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E91B5D2-771E-36B1-44AA-7B84F196463F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7E91B5D2-771E-36B1-44AA-7B84F196463F}|Assembly-CSharp.csproj|D:\\Unity\\Projects\\Game Jam Ctrl\u002BAlt\u002BElite\\assets\\scripts\\enemypath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,11 +42,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "EnemyBullet.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\Game Jam Ctrl\u002BAlt\u002BElite\\Assets\\Scripts\\EnemyBullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyBullet.cs",
+              "ToolTip": "D:\\Unity\\Projects\\Game Jam Ctrl\u002BAlt\u002BElite\\Assets\\Scripts\\EnemyBullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyBullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T19:15:55.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "EnemyShooter.cs",
               "DocumentMoniker": "D:\\Unity\\Projects\\Game Jam Ctrl\u002BAlt\u002BElite\\Assets\\Scripts\\EnemyShooter.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyShooter.cs",
@@ -50,12 +67,11 @@
               "RelativeToolTip": "Assets\\Scripts\\EnemyShooter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T18:12:40.985Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-05T18:12:40.985Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "EnemyPath.cs",
               "DocumentMoniker": "D:\\Unity\\Projects\\Game Jam Ctrl\u002BAlt\u002BElite\\Assets\\Scripts\\EnemyPath.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyPath.cs",
@@ -80,32 +96,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Player.cs",
               "DocumentMoniker": "D:\\Unity\\Projects\\Game Jam Ctrl\u002BAlt\u002BElite\\Assets\\Scripts\\Player.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
               "ToolTip": "D:\\Unity\\Projects\\Game Jam Ctrl\u002BAlt\u002BElite\\Assets\\Scripts\\Player.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player.cs",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAYwGkAAABPAAAAAAAAAA==",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAwwJUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-05T10:58:18.431Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Healthbar.cs",
               "DocumentMoniker": "D:\\Unity\\Projects\\Game Jam Ctrl\u002BAlt\u002BElite\\Assets\\Scripts\\Healthbar.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Healthbar.cs",
               "ToolTip": "D:\\Unity\\Projects\\Game Jam Ctrl\u002BAlt\u002BElite\\Assets\\Scripts\\Healthbar.cs",
               "RelativeToolTip": "Assets\\Scripts\\Healthbar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T12:29:53.75Z"
+              "WhenOpened": "2025-07-05T12:29:53.75Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "LevelsManager.cs",
               "DocumentMoniker": "D:\\Unity\\Projects\\Game Jam Ctrl\u002BAlt\u002BElite\\Assets\\Scripts\\LevelsManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\LevelsManager.cs",
@@ -117,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "MainMenuScript.cs",
               "DocumentMoniker": "D:\\Unity\\Projects\\Game Jam Ctrl\u002BAlt\u002BElite\\Assets\\Scripts\\MainMenuScript.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuScript.cs",
@@ -125,8 +142,7 @@
               "RelativeToolTip": "Assets\\Scripts\\MainMenuScript.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T14:06:57.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-05T14:06:57.669Z"
             }
           ]
         }

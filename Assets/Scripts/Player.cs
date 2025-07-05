@@ -146,6 +146,8 @@ public class Player : MonoBehaviour
 
             GameObject projectile =
                 (GameObject)Instantiate(energyBlast, shotPoint.position, rotation);
+            projectile.GetComponent<Rigidbody2D>().velocity = direction * 10f;
+
         }
     }
 
